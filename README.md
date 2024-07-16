@@ -53,4 +53,3 @@ You can install the required packages using:
 ## Credits
 
 The implementation of the Cat vs. Dog Classification model is based on the tutorial by Nicholas Renotte. You can watch the tutorial [here](https://youtu.be/qFJeN9V1ZsI?feature=shared).
-
