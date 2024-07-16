@@ -28,8 +28,10 @@ This project contains two separate neural networks developed using Keras:
 
 You can install the required packages using:
 
-```bash
-    pip install tensorflow keras numpy pandas matplotlib jupyter
+- bash
+
+```sh
+pip install tensorflow keras numpy pandas matplotlib jupyter
 ```
 
 ## Running the Notebooks
@@ -39,9 +41,10 @@ You can install the required packages using:
     - Ensure you have the dataset in the `data/` directory.
     - Data can be download from [kaggle](https://www.kaggle.com/competitions/dogs-vs-cats/data)
     - Run all cells to train and evaluate the model.
-    - Model is over fitting so dont use it
     ![Alt text](img/catanddog_sum.png)
     ![Alt text](img/catanddog.png)
+    >[note]
+    >The cat vs. dog classification model is likely overfitting and should not be used in a production environment. It is intended for educational purposes only to demonstrate the construction and training of a CNN.
 
 2. **Medical Side Effects Prediction:**
     - Open the `med_neural_network.ipynb` notebook.
