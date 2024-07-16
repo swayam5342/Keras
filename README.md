@@ -28,9 +28,9 @@ This project contains two separate neural networks developed using Keras:
 
 You can install the required packages using:
 
-\`\`\`bash
+```bash
 pip install tensorflow keras numpy pandas matplotlib jupyter
-\`\`\`
+```
 
 ## Running the Notebooks
 
