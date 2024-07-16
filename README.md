@@ -43,7 +43,7 @@ pip install tensorflow keras numpy pandas matplotlib jupyter
     - Run all cells to train and evaluate the model.
     ![Alt text](img/catanddog_sum.png)
     ![Alt text](img/catanddog.png)
-    >[note]
+    >[!note]
     >The cat vs. dog classification model is likely overfitting and should not be used in a production environment. It is intended for educational purposes only to demonstrate the construction and training of a CNN.
 
 2. **Medical Side Effects Prediction:**
