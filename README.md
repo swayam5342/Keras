@@ -40,15 +40,15 @@ You can install the required packages using:
     - Data can be download from [kaggle](https://www.kaggle.com/competitions/dogs-vs-cats/data)
     - Run all cells to train and evaluate the model.
     - Model is over fitting so dont use it
-    ![Alt text](catanddog_sum.png)
-    ![Alt text](catanddog.png)
+    ![Alt text](img/catanddog_sum.png)
+    ![Alt text](img/catanddog.png)
 
 2. **Medical Side Effects Prediction:**
     - Open the `med_neural_network.ipynb` notebook.
     - Ensure you have the dataset in the `data/` directory.
     - Run all cells to train and evaluate the model.
-    ![Alt text](med_sum.png)
-    ![Alt text](med_output.png)
+    ![Alt text](img/med_sum.png)
+    ![Alt text](img/med_output.png)
 
 ## Credits
 
