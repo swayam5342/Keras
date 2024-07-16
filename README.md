@@ -29,7 +29,7 @@ This project contains two separate neural networks developed using Keras:
 You can install the required packages using:
 
 ```bash
-pip install tensorflow keras numpy pandas matplotlib jupyter
+    pip install tensorflow keras numpy pandas matplotlib jupyter
 ```
 
 ## Running the Notebooks
@@ -39,11 +39,16 @@ pip install tensorflow keras numpy pandas matplotlib jupyter
     - Ensure you have the dataset in the `data/` directory.
     - Data can be download from [kaggle](https://www.kaggle.com/competitions/dogs-vs-cats/data)
     - Run all cells to train and evaluate the model.
+    - Model is over fitting so dont use it
+    ![Alt text](catanddog_sum.png)
+    ![Alt text](catanddog.png)
 
 2. **Medical Side Effects Prediction:**
     - Open the `med_neural_network.ipynb` notebook.
     - Ensure you have the dataset in the `data/` directory.
     - Run all cells to train and evaluate the model.
+    ![Alt text](med_sum.png)
+    ![Alt text](med_output.png)
 
 ## Credits
 
